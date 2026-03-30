@@ -18,4 +18,4 @@ How to run it
 1. Clone this repository.
 2. Configure your database credentials in application.properties.
 3. Run the application using your favorite IDE (IntelliJ, Eclipse, etc.).
-4. Test the endpoints using the provided Postman collection
+4. Test the endpoints using the provided Postman collection.
